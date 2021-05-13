@@ -1,0 +1,4 @@
+[2019-06-22 00:14:29.258] [renderer1] [warning] UNRESPONSIVE extension host, 'platformio.platformio-ide' took 99% of 1779.051ms, saved PROFILE here: '/tmp/exthost-afaea2.cpuprofile' [{"id":"gc","total":4833,"percentage":0},{"id":"ms-vscode.cpptools","total":4212,"percentage":0},{"id":"platformio.platformio-ide","total":1762905,"percentage":99},{"id":"program","total":1124,"percentage":0},{"id":"self","total":3377,"percentage":0},{"id":"vscode.git","total":155,"percentage":0}]
+[2019-06-22 00:14:33.834] [renderer1] [info] Requested uninstalling the extension platformio.platformio-ide from window 1
+[2019-06-22 00:22:03.258] [renderer1] [error] File not found (file:///home/neuberfran/esp/Workspaces/1561173536686/workspace.json): Error: File not found (file:///home/neuberfran/esp/Workspaces/1561173536686/workspace.json)
+    at o.resolveFile.then.i (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3363:450)

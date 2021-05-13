@@ -1,0 +1,2 @@
+[2019-06-22 00:58:49.799] [renderer1] [error] File not found (file:///home/neuberfran/esp/Workspaces/1561175861111/workspace.json): Error: File not found (file:///home/neuberfran/esp/Workspaces/1561175861111/workspace.json)
+    at o.resolveFile.then.i (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:3363:450)

@@ -1,0 +1,78 @@
+[2019-06-22 00:14:09.699] [sharedprocess] [info] main {"machineId":"591f13b599dab3acd4e4d9d3f76f4f74e28a95529fa5473470fec248dd881dae"}
+[2019-06-22 00:14:10.534] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:12.623] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:17.772] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:17.776] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:17.777] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:17.778] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:17.779] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:17.837] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:17.842] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:17.846] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:17.849] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:18.515] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:18.530] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:20.667] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:20.896] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:33.841] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:33.842] [sharedprocess] [info] Uninstalling extension: platformio.platformio-ide
+[2019-06-22 00:14:33.846] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:14:34.030] [sharedprocess] [info] Successfully uninstalled extension: platformio.platformio-ide
+[2019-06-22 00:14:43.144] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:14:43.149] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:43.149] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:43.150] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:43.150] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:14:43.383] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:14:43.631] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:14:43.904] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:14:44.116] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:14:44.433] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:14:45.467] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:14:49.705] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-22 00:15:08.396] [sharedprocess] [info] Installing extension: platformio.platformio-ide
+[2019-06-22 00:15:08.465] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-22 00:15:09.716] [sharedprocess] [info] Downloaded extension: platformio.platformio-ide /tmp/8ea37563-5c1f-4966-ac02-1edd6e85a61c
+[2019-06-22 00:15:09.862] [sharedprocess] [info] Removed the extension from uninstalled list: platformio.platformio-ide
+[2019-06-22 00:15:09.864] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:15:09.876] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:15:09.894] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:15:09.895] [sharedprocess] [info] Extensions installed successfully: platformio.platformio-ide
+[2019-06-22 00:19:08.249] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:19:08.288] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:19:45.482] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:19:49.674] [sharedprocess] [info] Installing extension: platformio.platformio-ide
+[2019-06-22 00:19:49.677] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:19:49.977] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:19:49.989] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:19:50.150] [sharedprocess] [info] Downloaded extension: platformio.platformio-ide /tmp/7c8beeba-e307-4cc2-b427-b13657bf91ab
+[2019-06-22 00:19:51.854] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.platformio.platformio-ide-1.7.1: platformio.platformio-ide
+[2019-06-22 00:19:51.854] [sharedprocess] [info] Renamed to /root/.vscode/extensions/platformio.platformio-ide-1.7.1
+[2019-06-22 00:19:51.855] [sharedprocess] [info] Installation completed. platformio.platformio-ide
+[2019-06-22 00:19:51.965] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:19:51.981] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:19:51.982] [sharedprocess] [info] Extensions installed successfully: platformio.platformio-ide
+[2019-06-22 00:22:04.502] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:22:04.504] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:22:04.552] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:22:04.556] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:22:04.893] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:22:06.697] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:22:09.321] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:22:09.337] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:24:33.913] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:24:33.916] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:24:33.953] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:24:33.961] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:24:34.357] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:24:36.157] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:24:38.135] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:24:38.151] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:29:36.178] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:32:18.527] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:32:18.547] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:32:19.622] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:32:19.624] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:32:19.641] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:32:20.996] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:37:21.005] [sharedprocess] [info] Scanned user extensions: 2

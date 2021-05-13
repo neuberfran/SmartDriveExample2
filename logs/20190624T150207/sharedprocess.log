@@ -1,0 +1,35 @@
+[2019-06-24 15:02:13.448] [sharedprocess] [info] main {"machineId":"591f13b599dab3acd4e4d9d3f76f4f74e28a95529fa5473470fec248dd881dae"}
+[2019-06-24 15:02:14.068] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:02:14.457] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:02:15.978] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:02:15.990] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:02:17.854] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:02:17.904] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:02:17.924] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:02:18.529] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:02:53.456] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-24 15:07:18.548] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:07:50.391] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:07:50.412] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:12:18.560] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:47.900] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:47.901] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:47.903] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:47.904] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:47.941] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:12:47.945] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:12:47.948] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:12:48.293] [sharedprocess] [info] Installing extension: vsciot-vscode.vscode-arduino
+[2019-06-24 15:12:48.299] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:48.404] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:48.405] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-24 15:12:48.433] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:12:48.436] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:12:50.405] [sharedprocess] [info] Downloaded extension: vsciot-vscode.vscode-arduino /tmp/ae7e0e27-9430-4201-b24b-0dd02c86be83
+[2019-06-24 15:12:51.365] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.vsciot-vscode.vscode-arduino-0.2.26: vsciot-vscode.vscode-arduino
+[2019-06-24 15:12:51.366] [sharedprocess] [info] Renamed to /root/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.26
+[2019-06-24 15:12:51.367] [sharedprocess] [info] Installation completed. vsciot-vscode.vscode-arduino
+[2019-06-24 15:12:51.471] [sharedprocess] [info] Scanned user extensions: 3
+[2019-06-24 15:12:51.485] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-24 15:12:51.485] [sharedprocess] [info] Extensions installed successfully: vsciot-vscode.vscode-arduino
+[2019-06-24 15:17:18.577] [sharedprocess] [info] Scanned user extensions: 3

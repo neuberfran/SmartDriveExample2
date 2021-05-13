@@ -1,0 +1,49 @@
+[2019-06-22 00:40:12.963] [sharedprocess] [info] main {"machineId":"591f13b599dab3acd4e4d9d3f76f4f74e28a95529fa5473470fec248dd881dae"}
+[2019-06-22 00:40:13.075] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:40:13.091] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:40:13.092] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:40:13.120] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:40:13.124] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:40:13.401] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:40:34.810] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:40:34.832] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:40:41.574] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:40:41.575] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2019-06-22 00:40:42.983] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode.cpptools-0.24.0-insiders: ms-vscode.cpptools
+[2019-06-22 00:40:42.983] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.cpptools-0.24.0-insiders
+[2019-06-22 00:40:42.985] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-06-22 00:40:43.078] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools
+[2019-06-22 00:40:52.972] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-22 00:40:59.588] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:40:59.613] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:41:00.449] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:41:00.451] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:41:00.471] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:41:02.088] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:46:02.103] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:51:02.117] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:27.967] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:27.985] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:53:28.519] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:28.527] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:28.541] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:53:30.424] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:58.983] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:59.003] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:53:59.496] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:59.509] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:53:59.523] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:54:01.432] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:58:50.941] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:58:50.944] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:58:50.986] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:58:50.990] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:58:52.831] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:58:52.851] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:58:53.133] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:59:52.456] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:59:52.474] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:59:52.855] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:59:52.875] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-22 00:59:52.887] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-22 00:59:54.915] [sharedprocess] [info] Scanned user extensions: 2
